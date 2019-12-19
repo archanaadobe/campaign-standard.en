@@ -30,9 +30,9 @@ To start sending In-App messages on mobile applications leveraging Experience Pl
 
 1. Once configured, you can now prepare your In-App message. For more on this, refer to this [page](../../channels/using/preparing-and-sending-an-in-app-message.md#preparing-your-in-app-message).
 
-1. You can then decide to send an [In-App message](../../channels/using/customizing-an-in-app-message.md) or a [Customizing a local notification message type](../../channels/using/customizing-an-in-app-message.md#customizing-a-local-notification-message-type).
+1. You can then decide to customize your in-app message [Customizing an In-App message](../../channels/using/customizing-an-in-app-message.md) or a [Customizing a local notification message type](../../channels/using/customizing-an-in-app-message.md#customizing-a-local-notification-message-type).
 
-1. Your delivery is now ready to be sent. To learn more, refer to this [page](../../channels/using/preparing-and-sending-an-in-app-message.md#sending-your-in-app-message).
+1. Once your message is ready, you can prepare and send a delivery. To learn more, refer to this [page](../../channels/using/preparing-and-sending-an-in-app-message.md#sending-your-in-app-message).
 
 **Related content:**
 
